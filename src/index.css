@@ -1,0 +1,29 @@
+/* @media screen and (max-width: 1400px) {
+    .header {
+        padding: 30px 12px;
+    }
+    .home__img-wrapper {
+        max-width: 500px;
+        transform: translateY(-6%);
+        padding-right: 40px;
+    }
+    .home__profile {
+        height: auto;
+    }
+
+    .home__data {
+        transform: scale(0.7);
+    }
+
+    .shape__1 {
+        width: 203px;
+        height: 203px;
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 960px;
+    }
+} */
