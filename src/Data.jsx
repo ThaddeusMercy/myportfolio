@@ -101,10 +101,10 @@ export const skills = [
 
   {
     id: 2,
-    name: 'React.Js & Tailwind CSS',
+    name: 'TypeScript, React.Js & Tailwind CSS',
     percentage: 100,
     description:
-      'Experienced in React.js and Tailwind CSS with the ability to build modern and responsive web applications with great animations, styles and overall modern aesthetics.',
+      'Experienced in writing Typescript, React.js and Tailwind CSS with the ability to build modern and responsive web applications with great animations, styles and overall modern aesthetics.',
   },
 
   {
