@@ -1,6 +1,5 @@
 import React from 'react'
-import profileImg from '../../assets/my-profile2.jpg';
-// import profileImg from '../../assets/my-profile2.jpg';
+import profileImg from '../../assets/my-profile2.png';
 import shapeOne from '../../assets/shape-1.png';
 import shapeTwo from '../../assets/shape-2.png';
 import shapeFour from '../../assets/shape-4.png';
@@ -30,20 +29,20 @@ const Home = () => {
 
                 <div className="home__img-wrapper">
                     <div className="home__banner">
-                        {/* <img src={profileImg} alt="" className='home__profile'/> */}
+                        <img src={profileImg} alt="" className='home__profile'/>
                     </div>
 
-                    <p className="home__data home__data-one">
+                    {/* <p className="home__data home__data-one">
                         <span className="text-lg">
                             <span>Web <span className='text-sm'> Developer </span></span>
                         </span>
-                    </p>
+                    </p> */}
 
-                    <p className="home__data home__data-two">
+                    {/* <p className="home__data home__data-two">
                         <span className="text-lg">
                         <span> Content <span className='text-sm'>Writer</span></span>
                         </span>
-                    </p>
+                    </p> */}
 
                     <img src={shapeFour} alt="" className="shape shape__1" />
                     <img src={shapeFour} alt="" className="shape shape__2" />
